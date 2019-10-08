@@ -14,4 +14,8 @@ class Dog
     #binding.pry
      @breed = dog_breed
   end 
+  
+  def breed 
+    @breed
+  end 
 end 
