@@ -12,6 +12,6 @@ class Dog
   
   def breed=(dog_breed)
     #binding.pry
-    return @breed
+     @breed = dog_breed
   end 
 end 
